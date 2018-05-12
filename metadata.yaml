@@ -1,0 +1,32 @@
+_repo: Conquest-Over-Time_31652
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaara, Michael
+    birthdate: 1928
+    deathdate: 1988
+    gutenberg_agent_id: '35381'
+    url: http://www.gutenberg.org/2009/agents/35381
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Shaara
+description: '""Now this here planet, "" he said cautiously, ""is whacky in a lot
+  of ways. First of all they call it Mert. Just plain Mert. And they live in houses
+  strictly from Dickens, all carriages, no sewers, narrow streets, stuff like that.""
+  But that wasn''t all ... Travis, in reaching Diomed III before any others, found
+  himself waging a one-man fight against more than this; he was bucking the strangest
+  way of life you have ever heard of!'
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Conquest Over Time
+url: http://www.gutenberg.org/ebooks/31652
